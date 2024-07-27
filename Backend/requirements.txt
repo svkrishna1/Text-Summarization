@@ -1,6 +1,8 @@
+pypdf
+sentencepiece
+protobuf
 langchain
 transformers
-faiss
 Flask
 PyMuPDF
 python-docx
