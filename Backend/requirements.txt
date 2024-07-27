@@ -12,3 +12,5 @@ Pillow
 spacy
 scikit-learn
 nltk
+werkzeug
+t5
