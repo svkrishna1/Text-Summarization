@@ -1,0 +1,11 @@
+langchain
+transformers
+faiss
+Flask
+PyMuPDF
+python-docx
+pytesseract
+Pillow
+spacy
+scikit-learn
+nltk
