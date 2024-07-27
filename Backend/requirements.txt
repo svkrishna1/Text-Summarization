@@ -1,3 +1,4 @@
+torch
 pypdf
 sentencepiece
 protobuf
